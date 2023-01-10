@@ -1,6 +1,6 @@
 # Context Manager.
 
-This is a simple context manager. 
+This is a simple context manager.<br /> 
 Description and explanation of a context manager is included in the script.
 
 ## Steps to Setup
