@@ -1,13 +1,14 @@
-# Decorator.
+# Context Manager.
 
-This is a simple decorator
+This is a simple context manager. 
+Description and explanation of a context manager is included in the script.
 
 ## Steps to Setup
 
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/jeppe-t/Decorator.git
+git clone https://github.com/jeppe-t/Python_Context_Manager.git
 ```
 
 **2. Import libraries**
@@ -24,7 +25,7 @@ or
 
 In terminal: 
 Go to the folder, where the script is located and run: 
-python decorator.py
+python context_manager.py
 ```
 The app will start running.
 
